@@ -1,0 +1,28 @@
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: #45DAD1;
+    transition-duration: 0.5s;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover {
+    color: #45DAD1;
+    transition-duration: 0.5s;
+}
+
+.logout:hover {
+    color: #EA5252 ;
+    transition-duration: 0.5s;
+}
+
+.FieldInfo {
+    color: rgb(251, 174, 44);
+    font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+    font-size: 1.2em;
+}
